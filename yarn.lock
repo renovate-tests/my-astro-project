@@ -538,10 +538,10 @@ astring@^1.7.4:
   resolved "https://registry.yarnpkg.com/astring/-/astring-1.7.5.tgz#a7d47fceaf32b052d33a3d07c511efeec67447ca"
   integrity sha512-lobf6RWXb8c4uZ7Mdq0U12efYmpD1UFnyOWVJPTa3ukqZrMopav+2hdNu0hgBF0JIBFK9QgrBDfwYvh3DFJDAA==
 
-astro@0.12.8:
-  version "0.12.8"
-  resolved "https://registry.yarnpkg.com/astro/-/astro-0.12.8.tgz#f6c310afe43c7ec7f58acb858d0e4fa472dcf437"
-  integrity sha512-Ja+iGDTzm8jQCiI+r6Yun6mHRFQwBtYXZJ+YwghsOEITQ5dOy5MFfycEi8RZBG96ShD4MNg1Oe2aWtRl2BJPew==
+astro@0.12.10:
+  version "0.12.10"
+  resolved "https://registry.yarnpkg.com/astro/-/astro-0.12.10.tgz#4d035e9d0103bb6e44faf3a481b9ad8ca976b169"
+  integrity sha512-grK5CbXSk+YFZBFZ+jWOjnRqQK1aIzVbZI2Ttwx116jBtnBzuZ+TfY4mQdw17QlzcN+WPG5hO4EsjUR8CZxz2w==
   dependencies:
     "@astrojs/markdown-support" "0.1.1"
     "@astrojs/parser" "0.12.1"
