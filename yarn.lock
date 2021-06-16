@@ -2,20 +2,20 @@
 # yarn lockfile v1
 
 
-"@astrojs/markdown-support@0.1.1":
-  version "0.1.1"
-  resolved "https://registry.yarnpkg.com/@astrojs/markdown-support/-/markdown-support-0.1.1.tgz#8430fdaad347a87783bc6a43adbab0ebb587ddb2"
-  integrity sha512-CBFac5F/6uJo/P0tY8dTDcjoJcOjcAzwfExASg1N58GULybqPCHs5qW8sqp/52ZnQoHnFi4PCZw6jW1DxPWQOQ==
+"@astrojs/markdown-support@0.1.2":
+  version "0.1.2"
+  resolved "https://registry.yarnpkg.com/@astrojs/markdown-support/-/markdown-support-0.1.2.tgz#ce550f362c43f2e5210c93409aaa3d5107c050a6"
+  integrity sha512-sD5hPnT0Mafn3sq+v5jXQH0IoNZltbEaXS4+saaWySXIUMeoUZkotzWLmyfrYt+FlvmETz1n8NOzbGPZdnMtTw==
 
-"@astrojs/parser@0.13.3":
-  version "0.13.3"
-  resolved "https://registry.yarnpkg.com/@astrojs/parser/-/parser-0.13.3.tgz#f370e85d9822244468583ab046dc9ba6f5dda248"
-  integrity sha512-qijfxITi95eIg2WG053ml7Ri7rcvGu0p3ixKtBhLQzcs0yQfXQSX0MQbSrARlOJvPN9SiGtre6Ypnh/Q+84IVw==
+"@astrojs/parser@0.13.9":
+  version "0.13.9"
+  resolved "https://registry.yarnpkg.com/@astrojs/parser/-/parser-0.13.9.tgz#5865410d814cc76042d15e6a9bf1ecbd8d170e42"
+  integrity sha512-jSDgvZ55GUdwWTGyOSx4YWzW6ydCDIqktNAcRKUVaX7bMc51K+a9EJWQbqO7vy3aZchTyoRbLL0rJlKAtWu8FA==
 
-"@astrojs/prism@0.2.1":
-  version "0.2.1"
-  resolved "https://registry.yarnpkg.com/@astrojs/prism/-/prism-0.2.1.tgz#b8aa0adeac4c0caba176aee5330257e1c6872b27"
-  integrity sha512-Fy6dPXktJBh/XD8wFHudoOf9FGsbBuHrveWa1Vt8gfXHpW4sqCAnvDbwAq6VJxSBLFC6SMOgWyB6a9jgLdDAWg==
+"@astrojs/prism@0.2.2":
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/@astrojs/prism/-/prism-0.2.2.tgz#6f23c3922df2ca0bce0362ee48d13b0820b09bb3"
+  integrity sha512-STrtNBw7MSaf9RfSdQDqW38p3GrIfNZEZvLgEyWqlEeafUxtF783L2PDLW3nBUyIsY6GZvQd5jq19NpGrhSWLw==
 
 "@astrojs/renderer-preact@0.1.2":
   version "0.1.2"
@@ -538,14 +538,14 @@ astring@^1.7.4:
   resolved "https://registry.yarnpkg.com/astring/-/astring-1.7.5.tgz#a7d47fceaf32b052d33a3d07c511efeec67447ca"
   integrity sha512-lobf6RWXb8c4uZ7Mdq0U12efYmpD1UFnyOWVJPTa3ukqZrMopav+2hdNu0hgBF0JIBFK9QgrBDfwYvh3DFJDAA==
 
-astro@0.13.7:
-  version "0.13.7"
-  resolved "https://registry.yarnpkg.com/astro/-/astro-0.13.7.tgz#d2e067dc23a2c9bd5732a71ccb5f5771f5a1af00"
-  integrity sha512-uVImHKxy1zaNWmVEuChRmqfQSr8uzbLwcUhLOGr1gE/QkjcWxI2t2SMaxR/0Z1T++9yugC1V5/68dBjpdxC8TQ==
+astro@0.13.9:
+  version "0.13.9"
+  resolved "https://registry.yarnpkg.com/astro/-/astro-0.13.9.tgz#66d5deae94c23be31c4d8b2aa79a9eba2a4cc1f4"
+  integrity sha512-SwM2QpwlFnd8C7V0j+Ljs8T7jGFolQjMFBtYUQm5WxEJlKB1+oj+GugdF/hsVTZwSqJoYmboq7p1yDu5lq//EA==
   dependencies:
-    "@astrojs/markdown-support" "0.1.1"
-    "@astrojs/parser" "0.13.3"
-    "@astrojs/prism" "0.2.1"
+    "@astrojs/markdown-support" "0.1.2"
+    "@astrojs/parser" "0.13.9"
+    "@astrojs/prism" "0.2.2"
     "@astrojs/renderer-preact" "0.1.2"
     "@astrojs/renderer-react" "0.1.2"
     "@astrojs/renderer-svelte" "0.1.1"
@@ -594,7 +594,7 @@ astro@0.13.7:
     sass "^1.32.13"
     shorthash "^0.0.2"
     slash "^4.0.0"
-    snowpack "^3.5.7"
+    snowpack "^3.5.8"
     source-map-support "^0.5.19"
     string-width "^5.0.0"
     tiny-glob "^0.2.8"
@@ -3185,10 +3185,10 @@ smart-buffer@^4.1.0:
   resolved "https://registry.yarnpkg.com/smart-buffer/-/smart-buffer-4.1.0.tgz#91605c25d91652f4661ea69ccf45f1b331ca21ba"
   integrity sha512-iVICrxOzCynf/SNaBQCw34eM9jROU/s5rzIhpOvzhzuYHfJR/DhZfDkXiZSgKXfgv26HT3Yni3AV/DGw0cGnnw==
 
-snowpack@^3.5.7:
-  version "3.5.7"
-  resolved "https://registry.yarnpkg.com/snowpack/-/snowpack-3.5.7.tgz#1d56a273c97e6f8fe23800f4d3c641eefb65f356"
-  integrity sha512-mMdbG9vSs7JL69/Zk2VtpduBnbfzCCCXvhJeX4GzPg4aYyKtfs0s6MA5VoQbN9HL6lZpKRy/knaigKcC4E29GA==
+snowpack@^3.5.8:
+  version "3.5.8"
+  resolved "https://registry.yarnpkg.com/snowpack/-/snowpack-3.5.8.tgz#2132cca27e593aee619df671dcc68290c0b68889"
+  integrity sha512-o0oyNpjnmFywPPgNhVt8ofa2RPBQqScxnFNbf15H9B+sH5UyrgYmy4qeJAnipsQqT9CT7i9Mx2Q5Ccm5vlfHSQ==
   dependencies:
     cli-spinners "^2.5.0"
     default-browser-id "^2.0.0"
